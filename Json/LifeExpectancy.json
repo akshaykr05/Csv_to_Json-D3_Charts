@@ -1,0 +1,252 @@
+﻿[
+  {
+    "CountryCode": "ARB",
+    "Male_Expectancy": 3207.36845432297,
+    "Female_Expectancy": 3378.21047385905
+  },
+  {
+    "CountryCode": "EAS",
+    "Male_Expectancy": 3489.72183128057,
+    "Female_Expectancy": 3691.07569660555
+  },
+  {
+    "CountryCode": "SAS",
+    "Male_Expectancy": 3017.52417722469,
+    "Female_Expectancy": 3052.78580573274
+  },
+  {
+    "CountryCode": "AFG",
+    "Male_Expectancy": 2468.238,
+    "Female_Expectancy": 2569.334
+  },
+  {
+    "CountryCode": "ARM",
+    "Male_Expectancy": 3624.345,
+    "Female_Expectancy": 3969.571
+  },
+  {
+    "CountryCode": "AZE",
+    "Male_Expectancy": 3357.906,
+    "Female_Expectancy": 3743.194
+  },
+  {
+    "CountryCode": "BHR",
+    "Male_Expectancy": 3671.182,
+    "Female_Expectancy": 3834.392
+  },
+  {
+    "CountryCode": "BGD",
+    "Male_Expectancy": 3079.151,
+    "Female_Expectancy": 3121.24
+  },
+  {
+    "CountryCode": "BTN",
+    "Male_Expectancy": 2705.818,
+    "Female_Expectancy": 2709.106
+  },
+  {
+    "CountryCode": "BRN",
+    "Male_Expectancy": 3782.112,
+    "Female_Expectancy": 3948.509
+  },
+  {
+    "CountryCode": "KHM",
+    "Male_Expectancy": 2481.406,
+    "Female_Expectancy": 2729.223
+  },
+  {
+    "CountryCode": "CHN",
+    "Male_Expectancy": 3512.628,
+    "Female_Expectancy": 3663.982
+  },
+  {
+    "CountryCode": "GEO",
+    "Male_Expectancy": 3561.132,
+    "Female_Expectancy": 3968.308
+  },
+  {
+    "CountryCode": "HKG",
+    "Male_Expectancy": 3953.855,
+    "Female_Expectancy": 4293.067
+  },
+  {
+    "CountryCode": "IND",
+    "Male_Expectancy": 3005.054,
+    "Female_Expectancy": 3030.456
+  },
+  {
+    "CountryCode": "IDN",
+    "Male_Expectancy": 3210.121,
+    "Female_Expectancy": 3369.975
+  },
+  {
+    "CountryCode": "IRN",
+    "Male_Expectancy": 3187.137,
+    "Female_Expectancy": 3365.668
+  },
+  {
+    "CountryCode": "IRQ",
+    "Male_Expectancy": 3320.359,
+    "Female_Expectancy": 3556.232
+  },
+  {
+    "CountryCode": "JPN",
+    "Male_Expectancy": 4019.02,
+    "Female_Expectancy": 4328.56
+  },
+  {
+    "CountryCode": "JOR",
+    "Male_Expectancy": 3534.698,
+    "Female_Expectancy": 3671.261
+  },
+  {
+    "CountryCode": "KAZ",
+    "Male_Expectancy": 3244.742,
+    "Female_Expectancy": 3801.016
+  },
+  {
+    "CountryCode": "PRK",
+    "Male_Expectancy": 3282.233,
+    "Female_Expectancy": 3645.578
+  },
+  {
+    "CountryCode": "KOR",
+    "Male_Expectancy": 3532.411,
+    "Female_Expectancy": 3923.165
+  },
+  {
+    "CountryCode": "KWT",
+    "Male_Expectancy": 3723.357,
+    "Female_Expectancy": 3845.37
+  },
+  {
+    "CountryCode": "KGZ",
+    "Male_Expectancy": 3258.901,
+    "Female_Expectancy": 3704.8
+  },
+  {
+    "CountryCode": "LAO",
+    "Male_Expectancy": 2790.22,
+    "Female_Expectancy": 2939.132
+  },
+  {
+    "CountryCode": "LBN",
+    "Male_Expectancy": 3716.992,
+    "Female_Expectancy": 3907.901
+  },
+  {
+    "CountryCode": "MAC",
+    "Male_Expectancy": 3865.341,
+    "Female_Expectancy": 4101.024
+  },
+  {
+    "CountryCode": "MYS",
+    "Male_Expectancy": 3636.463,
+    "Female_Expectancy": 3815.153
+  },
+  {
+    "CountryCode": "MDV",
+    "Male_Expectancy": 3143.178,
+    "Female_Expectancy": 3145.678
+  },
+  {
+    "CountryCode": "MNG",
+    "Male_Expectancy": 3057.616,
+    "Female_Expectancy": 3352.875
+  },
+  {
+    "CountryCode": "MMR",
+    "Male_Expectancy": 2934.181,
+    "Female_Expectancy": 3185.779
+  },
+  {
+    "CountryCode": "NPL",
+    "Male_Expectancy": 2773.526,
+    "Female_Expectancy": 2844.44
+  },
+  {
+    "CountryCode": "OMN",
+    "Male_Expectancy": 3294.632,
+    "Female_Expectancy": 3476.682
+  },
+  {
+    "CountryCode": "PAK",
+    "Male_Expectancy": 3109.844,
+    "Female_Expectancy": 3167.322
+  },
+  {
+    "CountryCode": "PHL",
+    "Male_Expectancy": 3315.802,
+    "Female_Expectancy": 3582.606
+  },
+  {
+    "CountryCode": "QAT",
+    "Male_Expectancy": 3866.343,
+    "Female_Expectancy": 4002.646
+  },
+  {
+    "CountryCode": "SAU",
+    "Male_Expectancy": 3364.801,
+    "Female_Expectancy": 3552.937
+  },
+  {
+    "CountryCode": "SGP",
+    "Male_Expectancy": 3853.036,
+    "Female_Expectancy": 4139.221
+  },
+  {
+    "CountryCode": "LKA",
+    "Male_Expectancy": 3544.122,
+    "Female_Expectancy": 3847.39
+  },
+  {
+    "CountryCode": "SYR",
+    "Male_Expectancy": 3556.667,
+    "Female_Expectancy": 3682.436
+  },
+  {
+    "CountryCode": "TJK",
+    "Male_Expectancy": 3225.839,
+    "Female_Expectancy": 3546.16
+  },
+  {
+    "CountryCode": "THA",
+    "Male_Expectancy": 3417.631,
+    "Female_Expectancy": 3747.539
+  },
+  {
+    "CountryCode": "TUR",
+    "Male_Expectancy": 3161.955,
+    "Female_Expectancy": 3522.748
+  },
+  {
+    "CountryCode": "TKM",
+    "Male_Expectancy": 3115.044,
+    "Female_Expectancy": 3521.062
+  },
+  {
+    "CountryCode": "ARE",
+    "Male_Expectancy": 3626.234,
+    "Female_Expectancy": 3793.397
+  },
+  {
+    "CountryCode": "UZB",
+    "Male_Expectancy": 3343.078,
+    "Female_Expectancy": 3706.689
+  },
+  {
+    "CountryCode": "VNM",
+    "Male_Expectancy": 3441.446,
+    "Female_Expectancy": 3937.307
+  },
+  {
+    "CountryCode": "YEM",
+    "Male_Expectancy": 2746.816,
+    "Female_Expectancy": 2897.167
+  },
+  {
+    "CountryCode": "ISR",
+    "Male_Expectancy": 3716.93,
+    "Female_Expectancy": 3892.64
+  }
+]
